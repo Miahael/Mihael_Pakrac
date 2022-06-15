@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color: whitesmoke;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+}
+
+body{
+	background-image: url("slike/pozadina.jpg");
+}
+
+h1, h2{
+	color: skyblue;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+a:link {
+	color: black;
+	background-color: whitesmoke;
+	border: 1px solid #000000;
+	line-height: 50px;
+	padding: 1px;
+}
+a:hover{
+	background-color: darkgray;
+}
